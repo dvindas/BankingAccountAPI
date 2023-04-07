@@ -16,10 +16,10 @@
     </properties>
 
     <modules>
-        <module>../cqrs-es/cqrs.core</module>
-        <module>account.common</module>
-        <module>account.cmd</module>
-        <module>account.query</module>
+        <module>cqrs-es/cqrs.core</module>
+        <module>account/account.common</module>
+        <module>account/account.query</module>
+        <module>account/account.query</module>
     </modules>
 
 </project>
